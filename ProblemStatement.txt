@@ -1,0 +1,13 @@
+The following project has to be written for the Technical test as part of the interview process for Pechkus
+
+
+-You have to render a product listing from the sample JSON data file in this zip displaying all
+ the information fields and also the included women's tops images.
+-Use the create-react-app boilerplate from github. (https://github.com/facebook/create-react-app)
+-Build and style the components as per your convenience.
+-You will be tested on the basis of your application's performance optimization.
+-Bonus marks for adding filters to display product
+ listing on the basis of required JSON keys(sale,exclusive,price-hightolow,price-lowtohigh,sizes,ALL). 
+-Please push your application's git to your github account and send
+ us the link or send us the zip without the node modules(but ofcourse not without the updated package.json)
+-Attach snapshots of the working application.
